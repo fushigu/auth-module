@@ -1,3 +1,9 @@
+<h3>About this fork repository</h3>
+<p>
+  I fork auth-module to fix some points to adjust my use. My purpose is for using openid connect on line(SNS) login.
+  However, this auth module is not add client_secret to data when POST to get access token.
+</p>
+
 <h1 align="center" >🔑 Auth Module</h1>
 <p align="center">Zero-boilerplate authentication support for Nuxt.js!</p>
 
